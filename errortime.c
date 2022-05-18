@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * errortime - prints error message, frees and exits child process
  * @av: argument vector from main (used for av[0] filename)
