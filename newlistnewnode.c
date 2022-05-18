@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * pathchecker - Checks the path list for said argument
