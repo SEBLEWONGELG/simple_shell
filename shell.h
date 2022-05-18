@@ -1,5 +1,5 @@
-#ifndef __SHELL_H
-#define __SHELL_H
+#ifndef SHELL_H
+#define SHELL_H
 
 #include <sys/types.h>
 #include <sys/wait.h>
